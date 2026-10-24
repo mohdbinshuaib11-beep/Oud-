@@ -1,0 +1,6 @@
+{
+  "name": "Atiyab Al-Madina Perfumes",
+  "description": "Premium Arabian Perfume & Oud Catalogue Website for Atiyab Al-Madina Perfumes with interactive WhatsApp ordering and multi-product enquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
